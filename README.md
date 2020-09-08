@@ -15,14 +15,14 @@ Dependencies:
 
 The [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) is consisted of **FOUR** courses on deep learning, including artifical intelligence(ANN), convolutional neural networks(CNN), natural language processing (NLP), and Sequences. 
 
-**Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]**(https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
+**Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)**
 - Understand the major technology trends driving Deep Learning 
 - Be able to build, train and apply fully connected deep neural networks 
 - Know how to implement efficient (vectorized) neural networks - Understand the key parameters in a neural network's architecture 
 
 [My certificate](https://coursera.org/share/7db0255f6e9f25a42921b32f387c7943)
 
-**Course 2: [Convolutional Neural Networks in TensorFlow]**(https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+**Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)**
 - Understand the convoluation layers
 - Apply the image augmentation to avoid overfitting
 - Explore the transfer learning  
@@ -30,7 +30,7 @@ The [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.
 
 [My certificate](https://coursera.org/share/fbc4fc89dcebeb5d83c1304c933c4f08)
 
-**Course 3: [Natural Language Processing in TensorFlow]**(https://www.coursera.org/learn/natural-language-processing-tensorflow)
+**Course 3: [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)**
 
-**Course 4: [Sequences, Time Series and Prediction]**(https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+**Course 4: [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)**
 
